@@ -8,6 +8,7 @@
 @import "toolbar";
 @import "formula";
 @import "table";
+@import "dashboard";
 
 * {
   margin: 0;
@@ -26,4 +27,8 @@ body {
   height: 100%;
   min-width: 100%;
   font-size: .8rem;
+}
+
+a {
+  text-decoration: none;
 }
